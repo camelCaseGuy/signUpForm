@@ -1,0 +1,24 @@
+{
+  "name": "signupform",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000i\u0000g\u0000n\u0000U\u0000p\u0000F\u0000o\u0000r\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camelCaseGuy/signUpForm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camelCaseGuy/signUpForm/issues"
+  },
+  "homepage": "https://github.com/camelCaseGuy/signUpForm#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.31.8"
+  }
+}
